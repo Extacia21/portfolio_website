@@ -19,7 +19,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "npm ci && react-scripts build",
-    "postinstall": "npm rebuild"
+    "postinstall": "npm rebuild",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
